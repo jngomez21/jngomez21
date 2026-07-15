@@ -4,13 +4,8 @@
 :pencil:**Practicante en SYC**
 
 ## :zap: Actividad reciente
-
-<!--START\_SECTION:activity-->
-
-<!--END\_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
-<!--RECENT\_ACTIVITY:start-->
-
-<!--RECENT\_ACTIVITY:last\_update-->
