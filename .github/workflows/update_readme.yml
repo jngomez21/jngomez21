@@ -15,10 +15,11 @@ jobs:
         uses: actions/checkout@v4.2.2
  
       - name: Insertar actividad reciente
-        uses: jamesgeorge007/github-activity-readme@v2
+        # Se cambia el repositorio original por una alternativa actualizada a Node 24
+        uses: actions-js/github-activity-readme@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           # Limita el número de acciones a mostrar (máximo 10)
           COMMIT_MSG: "Bot: Actividad reciente actualizada"
-          MAX_LINES: 5 
+          MAX_LINES: 5
