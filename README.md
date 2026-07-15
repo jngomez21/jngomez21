@@ -3,5 +3,7 @@
 :computer:**Ingeniero De Sistemas**
 :pencil:**Practicante en SYC**
 
-### Vías de contacto
-!
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
